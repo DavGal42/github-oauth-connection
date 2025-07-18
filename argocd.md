@@ -24,7 +24,7 @@ kubectl -n argocd patch deployment argocd-server \
 ### 4. Edit argocd-cm
 ```kubectl edit cm argocd-cm -n argocd```
 
-```
+```yml
 apiVersion: v1
 kind: ConfigMap
 metadata:
@@ -45,7 +45,7 @@ data:
 ### 5. Edit argocd-secret
 ```kubectl edit secret argocd-secret -n argocd```
 
-```
+```yml
 apiVersion: v1
 kind: Secret
 metadata:
