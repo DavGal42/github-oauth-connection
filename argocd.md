@@ -2,6 +2,12 @@
 ### How Connect to ArgoCD UI using Github OAuth App in local environment.
 ---
 
+<img width="1000" height="927" alt="Screenshot from 2025-07-21 19-31-42" src="https://github.com/user-attachments/assets/a0cd9c5d-d97f-4093-9b03-37aad8d6aed9" />
+<p align="center">
+  <img width="300" height="400" alt="Screenshot from 2025-07-21 19-32-00" src="https://github.com/user-attachments/assets/503dcada-6fde-4deb-b09e-c174851d1390" />
+</p>
+<img width="1000" height="366" alt="Screenshot from 2025-07-21 19-32-23" src="https://github.com/user-attachments/assets/a8b7fc2c-efa2-4c0e-ba9a-74204526c27c" />
+
 ### 1. Create GitHub OAuth App
 - Homepage URL
 
