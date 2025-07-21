@@ -1,8 +1,12 @@
-# Grafana Connection
-
 ### How Connect to Grafana UI using Github OAuth App in local environment.
 
 ---
+
+<img width="1000" height="500" alt="Screenshot from 2025-07-21 19-21-16" src="https://github.com/user-attachments/assets/74a6e436-5345-4f19-8586-d435597871ee" />
+<p align="center">
+  <img width="300" height="600" alt="Screenshot from 2025-07-21 19-21-49" src="https://github.com/user-attachments/assets/c0bab72c-4329-4164-97d5-a73127af8523" />
+</p>
+<img width="1000" height="300" alt="Screenshot from 2025-07-21 19-22-28" src="https://github.com/user-attachments/assets/b4c40da5-685e-44fa-967d-9fbc91e005ee" />
 
 ### 1. Create GitHub OAuth App
 Homepage URL
