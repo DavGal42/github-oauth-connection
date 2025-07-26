@@ -21,7 +21,7 @@
 [Here's the link](https://argo-cd.readthedocs.io/en/stable/getting_started/)
 
 ### 3. Turn off HTTPS for ArgoCD
-```
+```bash
 kubectl -n argocd patch deployment argocd-server \
   --type=json \
   -p='[{"op":"add","path":"/spec/template/spec/containers/0/args","value":["argocd-server","--insecure"]}]'
